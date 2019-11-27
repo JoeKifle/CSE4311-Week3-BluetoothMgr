@@ -1,6 +1,8 @@
 # CSE4311-Week3-BluetoothMgr
 A repo from my lab course CSE4311
 
+## Reference
+[Bluetooth Overview](https://developer.android.com/guide/topics/connectivity/bluetooth)
 
 ## CREDIT
 
